@@ -1,1 +1,0 @@
-#sudo aireplay-ng -0 5 -a router_mac wlan0
